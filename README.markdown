@@ -10,7 +10,7 @@ gowork is a tool for creating Go workspaces. It also provides a script for easil
     (myenv)$ go list github.com/nickoneill/go-dropbox
     github.com/nickoneill/go-dropbox
     (myenv)$ deactivate
-    $ $ go list github.com/nickoneill/go-dropbox
+    $ go list github.com/nickoneill/go-dropbox
     can't load package: package github.com/nickoneill/go-dropbox: import
     "github.com/nickoneill/go-dropbox": cannot find package
 
