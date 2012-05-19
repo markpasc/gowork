@@ -21,3 +21,5 @@ gowork is a tool for creating Go workspaces. It also provides a script for easil
 ## Installation ##
 
 1. Run `go get github.com/markpasc/gowork` to install the `gowork` tool into your Go tree or current workspace.
+
+If you installed Go on the Mac using Homebrew, you'll need to `brew unlink go && brew link go` to make the `gowork` command available.
